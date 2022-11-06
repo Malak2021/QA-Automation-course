@@ -1,0 +1,7 @@
+public class Malak {
+
+
+
+public static voidmain()
+{ system.out.println("malak");}
+}
